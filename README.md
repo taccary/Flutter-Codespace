@@ -4,8 +4,9 @@ This is a repository for developing with [Flutter](https://flutter.dev/) on the 
 
 Flutter is a cross-platform UI framework by Google for building apps. Codespaces is a cloud-based development environment that lets you run a full-featured IDE in the cloud. This repository lets you get started with Flutter on Codespaces in just a few clicks.
 
-##Ressources pour la suite :
-- https://www.flutterlibrary.com/screens des templates d'écran à adapter
+## Ressources pour la suite :
+- https://www.flutterlibrary.com/screens : modèles de templates d'écran à adapter
+- https://docs.flutter.dev/get-started/codelab : Doc et tutos pour apprendre Flutter
 
 **Table of Contents**
 - [Setup](#setup)
